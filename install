@@ -1,0 +1,17 @@
+pip install beautifulsoup4
+BeautifulSoup เป็นไลบรารี Python ที่ใช้สำหรับดึงข้อมูลจากเว็บไซต์และวิเคราะห์ HTML หรือ XML ให้ง่ายขึ้น
+
+pip install requests
+requests เป็นไลบรารีที่ใช้สำหรับการทำ HTTP requests ใน Python
+มันทำให้เราสามารถสร้างคำขอ HTTP เพื่อเข้าถึงข้อมูลจากเว็บไซต์หรือเซิร์ฟเวอร์อื่น ๆ ง
+
+pip install opencv-python
+pip install opencv-python-headless
+OpenCV (Open Source Computer Vision Library) เป็นไลบรารีโอเพนซอร์สสำหรับคอมพิวเตอร์วิชัน (Computer Vision)
+
+pip install numpy
+เป็นไลบรารีหลักสำหรับการคำนวณทางวิทยาศาสตร์ใน Python
+
+pip install pillow
+เป็นไลบรารี Python สำหรับการประมวลผลภาพ
+มันมีความสามารถในการเปิด บันทึก และแก้ไขภาพ รวมถึงการปรับขนาด การแปลงรูปแบบ และการประมวลผลภาพอื่น ๆ
